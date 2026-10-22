@@ -87,6 +87,13 @@ Below is the curated list of **20 wallpapers**, organized by theme. Each entry i
 
 ---
 
+## 📌 Notes on the Curation
+
+The wallpapers listed above are sourced from **well-known, community-trusted repositories** that are explicitly designed for Linux ricing. The themes covered (Nord, Catppuccin, Gruvbox, Tokyo Night) are the most popular color schemes in the ricing community, as evidenced by the repositories with hundreds of stars. The minimalist and abstract wallpapers are sourced from galleries specifically tailored for Linux desktops.
+
+This collection is provided **free of charge** and is intended to be a **community resource** curated by **Hamza Nisar**. If any wallpaper inadvertently infringes on copyright, please open an issue, and it will be promptly addressed.
+---
+
 ## 🚀 Usage
 
 ### Option 1: Clone the Repository
