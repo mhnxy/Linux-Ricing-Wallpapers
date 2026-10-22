@@ -1,12 +1,26 @@
 # 🐧 Linux Ricing Wallpapers
 
+<h2 align="center"><strong>Curated & Maintained by Hamza Nisar</strong></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Curated%20by-Hamza%20Nisar-blueviolet?style=for-the-badge" alt="Curated by Hamza Nisar">
+  <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0 1.0">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+</p>
+
 > **A curated collection of 20 high-quality, free, and open-source wallpapers for Linux ricing and desktop customization.**
 >
-> **Curated & Maintained by Hamza Nisar**
+> **Curated & Maintained by <strong>Hamza Nisar</strong>**
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+---
+
+## 👤 Author & Curator
+
+<h2><strong>Hamza Nisar</strong></h2>
+
+This repository is curated, organized, and maintained by **<strong>Hamza Nisar</strong>**.  
+The goal of this project is to provide the Linux ricing community with a clean, reliable, and theme-matched wallpaper collection that is free to use and easy to browse.
 
 ---
 
@@ -14,7 +28,7 @@
 
 Welcome to **Linux Ricing Wallpapers** — a hand-picked collection of wallpapers designed for the Linux ricing community. Whether you are running **Hyprland**, **i3**, **bspwm**, **GNOME**, **KDE Plasma**, or any other window manager, this repository provides high-resolution wallpapers that complement popular color schemes and aesthetics.
 
-All wallpapers in this collection are **free to use**, and wherever possible, they are **open-source** or released under permissive licenses. The collection is curated and maintained by **Hamza Nisar** to give back to the amazing ricing community.
+All wallpapers in this collection are **free to use**, and wherever possible, they are **open-source** or released under permissive licenses. The collection is curated and maintained by **<strong>Hamza Nisar</strong>** to give back to the amazing ricing community.
 
 ---
 
@@ -24,8 +38,9 @@ All wallpapers in this collection are **free to use**, and wherever possible, th
 - **High resolution** (1920×1080 and above, many in 4K)
 - **Theme-matched** for popular color schemes: Nord, Catppuccin, Gruvbox, Tokyo Night, and more
 - **Organized by category** for easy browsing
-- **Free & open-source** (where applicable)
-- **Community-driven** — contributions are welcome!
+- **Free & open-source** where applicable
+- **Community-driven** — contributions are welcome
+- **Curated by <strong>Hamza Nisar</strong>**
 
 ---
 
@@ -96,3 +111,72 @@ Below is the curated list of **20 wallpapers** with **direct image links**. Clic
 ```bash
 git clone https://github.com/HamzaNisar/linux-ricing-wallpapers.git
 cd linux-ricing-wallpapers
+```
+
+### Option 2: Download Individual Wallpapers
+
+Click any **⬇ Download** link in the tables above to grab a wallpaper directly.
+
+### Option 3: Use a Wallpaper Manager
+
+You can use tools like **[WallRizz](https://github.com/5hubham5ingh/WallRizz)** or **[Wallpkgs](https://github.com/NotAShelf/wallpkgs)** (for Nix users) to manage and apply wallpapers from this collection.
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/AmazingWallpaper`).
+3. Add your wallpaper to the appropriate category folder.
+4. Update the `README.md` table with the new entry and direct link.
+5. Commit your changes (`git commit -m 'Add some AmazingWallpaper'`).
+6. Push to the branch (`git push origin feature/AmazingWallpaper`).
+7. Open a Pull Request.
+
+Please ensure your wallpapers are **free to use** and **properly credited**.
+
+---
+
+## 📜 License
+
+Distributed under the **CC0 1.0 Universal** license for the curated collection. Individual wallpapers may be subject to their own licenses — please refer to the source links for details.
+
+See `LICENSE` for more information.
+
+---
+
+## 🙏 Credits & Acknowledgments
+
+- **Curated & Maintained by:** <strong>Hamza Nisar</strong>
+- **Repository Owner:** <strong>Hamza Nisar</strong>
+- **Wallpaper Sources:**
+  - [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
+  - [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers)
+  - [Gruvbox Wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
+  - [Tokyo Night Wallpapers](https://github.com/tokyo-night/wallpapers)
+  - [Arch Minimal Wallpapers](https://github.com/LagrangianLad/arch-minimal-wallpapers)
+  - [michaelScopic Wallpapers](https://github.com/michaelScopic/Wallpapers)
+  - [Unsplash](https://unsplash.com/)
+  - [Chicswipe](https://www.chicswipe.com/)
+  - [Backiee](https://backiee.com/)
+  - [r/unixporn](https://www.reddit.com/r/unixporn/)
+
+Special thanks to the entire **r/unixporn** community for inspiring this collection.
+
+---
+
+## ⭐ Show Your Support
+
+If you find this collection useful, please consider giving the repository a **⭐ star**! It helps others discover these wallpapers and motivates further curation by **<strong>Hamza Nisar</strong>**.
+
+---
+
+<p align="center">
+  <strong>Curated with ❤️ by Hamza Nisar</strong>
+</p>
+
+<p align="center">
+  <strong>Happy Ricing! 🐧✨</strong>
+</p>
