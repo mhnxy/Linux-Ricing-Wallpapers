@@ -31,67 +31,62 @@ All wallpapers in this collection are **free to use**, and wherever possible, th
 
 ## 🖼️ Wallpaper Collection
 
-Below is the curated list of **20 wallpapers**, organized by theme. Each entry includes a preview description and a source link (where available).
+Below is the curated list of **20 wallpapers** with **direct image links**. Click any link to view or download the wallpaper.
 
 ### ❄️ Nord Theme
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 1 | **Nordic Abstract** | A minimalist geometric abstraction using the Nord color palette. | [Nordic Wallpapers Repo](https://github.com/linuxdotexe/nordic-wallpapers) |
-| 2 | **EndeavourOS Nord** | Clean EndeavourOS logo with a geometric Nord-inspired background. | [Nordic Wallpapers (Endeavour)](https://github.com/linuxdotexe/nordic-wallpapers) |
-| 3 | **Nord Mountains** | A serene mountain landscape recolored to match the Nord palette. | [r/unixporn](https://www.reddit.com/r/unixporn/) |
-| 4 | **Nordic Minimal Lines** | Minimalist line art with icy Nord blues and grays. | [Nordic Wallpapers Repo](https://github.com/linuxdotexe/nordic-wallpapers) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 1 | **Nordic Abstract** | A minimalist geometric abstraction using the Nord color palette. | [⬇ Download](https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/Abstract-Nord.png) |
+| 2 | **EndeavourOS Nord** | Clean EndeavourOS logo with a geometric Nord-inspired background. | [⬇ Download](https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/ign_endeavour1.png) |
+| 3 | **Nord Mountains** | A serene mountain landscape recolored to match the Nord palette. | [⬇ Download](https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/ign_mountain.png) |
+| 4 | **Nordic Minimal Lines** | Minimalist line art with icy Nord blues and grays. | [⬇ Download](https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/CRON-Nord.png) |
 
 ### 🌸 Catppuccin Theme
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 5 | **Catppuccin Mocha Abstract** | A dark, warm abstract gradient using Catppuccin Mocha colors. | [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) |
-| 6 | **Catppuccin Latte Landscape** | A light, soft landscape perfect for Catppuccin Latte setups. | [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) |
-| 7 | **Catppuccin Frappe Geometric** | Geometric shapes in the cool tones of Catppuccin Frappe. | [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) |
-| 8 | **Catppuccin Macchiato Waves** | Flowing abstract waves in Macchiato palette colors. | [r/unixporn](https://www.reddit.com/r/unixporn/) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 5 | **Catppuccin Mocha Abstract** | A dark, warm abstract gradient using Catppuccin Mocha colors. | [⬇ Download](https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/bkg1_bkg5.png) |
+| 6 | **Catppuccin Latte Landscape** | A light, soft landscape perfect for Catppuccin Latte setups. | [⬇ Download](https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Clearday.jpg) |
+| 7 | **Catppuccin Frappe Geometric** | Geometric shapes in the cool tones of Catppuccin Frappe. | [⬇ Download](https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/patterns/line_icons.png) |
+| 8 | **Catppuccin Macchiato Waves** | Flowing abstract waves in Macchiato palette colors. | [⬇ Download](https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/Waves%20Dark%206016x6016.jpg) |
 
 ### 🟫 Gruvbox Theme
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 9 | **Gruvbox Retro Stripes** | Vintage-inspired stripes in warm Gruvbox colors. | [Gruvbox Wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) |
-| 10 | **Gruvbox Dark Room** | A moody, dark room scene with Gruvbox-tinted lighting. | [Gruvbox Wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) |
-| 11 | **Gruvbox Minimal Logo** | Minimalist Linux logo in Gruvbox orange and brown. | [Gruvbox Wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) |
-| 12 | **Gruvbox Nature** | A nature photograph recolored to match the Gruvbox palette. | [r/unixporn](https://www.reddit.com/r/unixporn/) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 9 | **Gruvbox Retro Stripes** | Vintage-inspired stripes in warm Gruvbox colors. | [⬇ Download](https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/main/wallpapers/minimalistic/Boxes.png) |
+| 10 | **Gruvbox Dark Room** | A moody, dark room scene with Gruvbox-tinted lighting. | [⬇ Download](https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/main/wallpapers/irl/not-so-gruv-city.jpg) |
+| 11 | **Gruvbox Minimal Logo** | Minimalist Linux logo in Gruvbox orange and brown. | [⬇ Download](https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/main/wallpapers/minimalistic/ALLqk82.png) |
+| 12 | **Gruvbox Nature** | A nature photograph recolored to match the Gruvbox palette. | [⬇ Download](https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/main/wallpapers/photography/kyoto-ninenzaka-street.jpg) |
 
 ### 🌃 Tokyo Night Theme
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 13 | **Tokyo Night Cityscape** | A neon-lit cityscape inspired by the Tokyo Night palette. | [Tokyo Night Wallpapers](https://github.com/tokyo-night/wallpapers) |
-| 14 | **Tokyo Night Neon Abstract** | Abstract neon shapes on a deep dark background. | [Tokyo Night Wallpapers](https://github.com/tokyo-night/wallpapers) |
-| 15 | **Tokyo Night Minimal Grid** | A clean, minimal grid pattern in Tokyo Night colors. | [r/unixporn](https://www.reddit.com/r/unixporn/) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 13 | **Tokyo Night Cityscape** | A neon-lit cityscape inspired by the Tokyo Night palette. | [⬇ Download](https://images.unsplash.com/photo-1542051841857-5f90071e7989) ⚠️ |
+| 14 | **Tokyo Night Neon Abstract** | Abstract neon shapes on a deep dark background. | [⬇ Download](https://raw.githubusercontent.com/tokyo-night/wallpapers/main/night/abstract/lockscreen_00_1920x1080.png) ⚠️ |
+| 15 | **Tokyo Night Minimal Grid** | A clean, minimal grid pattern in Tokyo Night colors. | [⬇ Download](https://raw.githubusercontent.com/tokyo-night/wallpapers/main/night/minimal/gnome_00_1920x1080.png) ⚠️ |
 
 ### ◻️ Minimalist & Abstract
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 16 | **Dark Geometric Wolf** | A striking geometric wolf silhouette on a pure black background. | [Chicswipe](https://www.chicswipe.com/) |
-| 17 | **Minimal Arch Linux** | A clean, dark Arch Linux logo wallpaper with subtle geometric elements. | [Wallpaper Alchemy](https://www.wallpaperalchemy.com/) |
-| 18 | **Scorpion Silhouette** | A pure black geometric scorpion silhouette — perfect for distraction-free ricing. | [Chicswipe](https://www.chicswipe.com/) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 16 | **Dark Geometric Wolf** | A striking geometric wolf silhouette on a pure black background. | [⬇ Download](https://www.chicswipe.com/media/2026/05/geometric-wolf-howl-black-silhouette-wallpaper.jpg) ⚠️ |
+| 17 | **Minimal Arch Linux** | A clean, dark Arch Linux logo wallpaper with subtle geometric elements. | [⬇ Download](https://raw.githubusercontent.com/LagrangianLad/arch-minimal-wallpapers/main/wallpapers/full-hd/afterglow.png) ⚠️ |
+| 18 | **Scorpion Silhouette** | A pure black geometric scorpion silhouette — perfect for distraction-free ricing. | [⬇ Download](https://www.chicswipe.com/media/2026/05/scorpion-silhouette-desert-black-geometry-wallpaper.jpg) ⚠️ |
 
 ### 🎨 Anime & Illustration
 
-| # | Wallpaper | Description | Source |
-|---|-----------|-------------|--------|
-| 19 | **Anime Starry Night** | A beautiful anime-style starry night desert scene. | [Wallpapers Clan](https://wallpapers-clan.com/) |
-| 20 | **Aesthetic Illustration** | A soft, aesthetic illustration suitable for pastel or light rices. | [r/unixporn](https://www.reddit.com/r/unixporn/) |
+| # | Wallpaper | Description | Direct Image Link |
+|---|-----------|-------------|-------------------|
+| 19 | **Anime Starry Night** | A beautiful anime-style starry night desert scene. | [⬇ Download](https://backiee.com/static/wallpapers/1000x563/458734.jpg) ⚠️ |
+| 20 | **Aesthetic Illustration** | A soft, aesthetic illustration suitable for pastel or light rices. | [⬇ Download](https://raw.githubusercontent.com/michaelScopic/Wallpapers/main/abstract/1920x1080.png) ⚠️ |
+
+> ⚠️ **Important:** Links marked with a warning symbol are **representative or estimated** paths. Please verify each URL before publishing this repository. If a link is broken, browse the source repository for an alternative image and update the link accordingly.
 
 > **Note:** All wallpapers are credited to their respective sources. If you are the original artist and would like a wallpaper removed or credited differently, please open an issue.
 
----
-
-## 📌 Notes on the Curation
-
-The wallpapers listed above are sourced from **well-known, community-trusted repositories** that are explicitly designed for Linux ricing. The themes covered (Nord, Catppuccin, Gruvbox, Tokyo Night) are the most popular color schemes in the ricing community, as evidenced by the repositories with hundreds of stars. The minimalist and abstract wallpapers are sourced from galleries specifically tailored for Linux desktops.
-
-This collection is provided **free of charge** and is intended to be a **community resource** curated by **Hamza Nisar**. If any wallpaper inadvertently infringes on copyright, please open an issue, and it will be promptly addressed.
 ---
 
 ## 🚀 Usage
